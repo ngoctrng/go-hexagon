@@ -1,5 +1,7 @@
 # Hexagonal Architecture sample application
 
+Sample application for: https://eazymock.net/blogs/software-design-with-hexagonal-architecture-in-go-pUUFA2vjl2
+
 ## Development
 
 ### Init local environment
